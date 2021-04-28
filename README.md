@@ -3,8 +3,8 @@
 - [x] Install Visual Studio code 
 - [x] Install node/yarn 
 - [x] Clone the project from github
-- [X] Do a npm install or yarn install
-PS - In case you have trouble installing reach out to rajath.vp@gmail.com (look at the package.json for info about versions)
+- [X] Do a npm install or yarn install <br/>
+[PS - In case you have trouble installing reach out to rajath.vp@gmail.com (look at the package.json for info about versions)]
 
 ## Task/Test Scenarios
 
@@ -64,7 +64,7 @@ Below is screenshot of a future framework architecture-
 
 Below is Spec Report Screenshot which shows which test passed
 
-<a href="https://ibb.co/DgL9XJ8"><img src="https://i.ibb.co/t35CkPv/Screen-Shot1.png" alt="Screen-Shot1" border="0"></a>
+<a href="https://ibb.co/DgL9XJ8"><img src="https://i.ibb.co/zHNXcM7/Screen-Shot-2021-04-27-at-11-43-00-PM.png" alt="Screen-Shot-2021-04-27-at-11-43-00-PM" border="0"></a>
 
 ## Challenges
 
