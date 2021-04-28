@@ -3,7 +3,7 @@
 - [x] Install Visual Studio code 
 - [x] Install node/yarn 
 - [x] Clone the project from github
-- [X] Do a npm install or yarn install <br/>
+- [X] Do a `npm install` or `yarn install` <br/>
 [PS - In case you have trouble installing reach out to rajath.vp@gmail.com (look at the package.json for info about versions)]
 
 ## Task/Test Scenarios
@@ -78,7 +78,7 @@ Below is Spec Report Screenshot which shows which test passed
 
 ## Running the tests
 
-- Once you install the all teh above mentioned tools do a npm test wdio.conf.js
+- Once you install the all teh above mentioned tools do a ![#f03c15]`npm test wdio.conf.js``#f03c15`
 
 
 simple_smile
