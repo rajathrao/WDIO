@@ -78,7 +78,7 @@ Below is Spec Report Screenshot which shows which test passed
 
 ## Running the tests
 
-- Once you install the all teh above mentioned tools do a ![#f03c15]`npm test wdio.conf.js``#f03c15`
+- Once you install the all teh above mentioned tools do a - `npm test wdio.conf.js` 
 
 
 simple_smile
