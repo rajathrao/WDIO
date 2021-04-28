@@ -21,6 +21,7 @@
     "@wdio/mocha-framework": "^7.5.2",
     "@wdio/spec-reporter": "^7.5.2",
     "chromedriver": "^90.0.0",
-    "wdio-chromedriver-service": "^7.0.0"
+    "wdio-chromedriver-service": "^7.0.0",
+    "wdio-image-comparison-service": "^2.3.0"
   }
 }

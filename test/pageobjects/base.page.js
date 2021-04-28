@@ -9,10 +9,13 @@ class BasePage{
     designButton(){
         return $('//div[@name="design"]');
     }
- wall(){
+ walls(){
      return $('(//div[@role = "button"]/descendant::div)[1]');
  }
 
+wall(){
+    return $('//div[@data-selenium="macheteViewerContainer"]/canvas');
+}
  roof(){
      return $('// div[text()="roof"]');
  }
@@ -21,7 +24,7 @@ class BasePage{
      return $('//div[@data-selenium="attributeExtraText" and text()="Horizontal Siding"]');
  }
  horSliding1(){
-     return $('// div[text()="Horizontal Siding"]');
+     return $('//div[@data-selenium="breadcrumbs"] /div[5]');
  }
  brick(){
      return $('//div[@data-selenium="extendedSidebar"]/div/div/div[4]/div[1]');
