@@ -68,12 +68,7 @@ Below is Spec Report Screenshot which shows which test passed
 
 ## Challenges
 
-- The background color of the row is defualting to black when trying to fetch the property 'background-color' of CSS
-
-## Workaround
-
-- I would also fix it by using Jquery or JavaScript but since testing is the scope of this project I have restrained myself to testing the application
-- Another option is to assign it to Dev team to look into the CSS/HTML file, since there may be business logic and otehr logic involved which may be affected in case I try to fix it.
+- Unable to Click on the 3D image. Did it with mouse action but not effective
 
 
 ## Running the tests
@@ -81,6 +76,5 @@ Below is Spec Report Screenshot which shows which test passed
 - Once you install the all teh above mentioned tools do a - `npm test wdio.conf.js` 
 
 
-simple_smile
 # Thank You! 
 Rajath Rao 
