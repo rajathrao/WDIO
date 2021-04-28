@@ -55,20 +55,26 @@ The future enchancements may include the following
 
 I have created a framework which will eventually look like the below diagram. 
 
- - Page Objects - there is a BasePage that has all the elements
- - Spec File - Used to run the testcases
+ - Page Objects - base,page.js
+ - Utils- data.js(data driven approach), utility.js(helper methods)
+ - Spec File - SmokeTesting.suite.js 
+ - Screenshot folder - to save screenshots of the baseline
 
+Below is the screenShot of the current architecture- (Ci/CD component is only for illustration) 
+
+<a href="https://ibb.co/f4DXg6t"><img src="https://i.ibb.co/LnN0Fj6/WDIO-Architecture-1.jpg" alt="WDIO-Architecture-1" border="0"></a>
  
-Below is screenshot of a future framework architecture- 
-<a href="https://ibb.co/8mv28H7"><img src="https://i.ibb.co/FhZJ7FD/Screen-Shot2.png" alt="Screen-Shot2" border="0"></a>
-
-Below is Spec Report Screenshot which shows which test passed
+ Below is Spec Report Screenshot which shows which test passed
 
 <a href="https://ibb.co/DgL9XJ8"><img src="https://i.ibb.co/zHNXcM7/Screen-Shot-2021-04-27-at-11-43-00-PM.png" alt="Screen-Shot-2021-04-27-at-11-43-00-PM" border="0"></a>
 
+Below is screenshot of a future framework architecture- (Scope for improvment) 
+<a href="https://ibb.co/8mv28H7"><img src="https://i.ibb.co/FhZJ7FD/Screen-Shot2.png" alt="Screen-Shot2" border="0"></a>
+
+
 ## Challenges
 
-- Unable to Click on the 3D image. Did it with mouse action but not effective
+- Lcoators, Frames, 3D Image clicking.
 
 
 ## Running the tests
