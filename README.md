@@ -1,4 +1,4 @@
-# Hover 3D model Scenario
+# Hover Task - Verifying that a user can change a texture on the 3D model.
 # Installation
 - [x] Install Visual Studio code 
 - [x] Install node/yarn 
