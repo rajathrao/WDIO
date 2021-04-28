@@ -1,4 +1,8 @@
 # Hover Task - Verifying that a user can change a texture on the 3D model.
+
+# Video demo of the test running - 
+https://www.loom.com/share/95fcd998d6324065b79d096e8f2337a5
+
 # Installation
 - [x] Install Visual Studio code 
 - [x] Install node/yarn 
@@ -66,7 +70,7 @@ Below is the screenShot of the current architecture- (Ci/CD component is only fo
  
  Below is Spec Report Screenshot which shows which test passed
 
-<a href="https://ibb.co/DgL9XJ8"><img src="https://i.ibb.co/zHNXcM7/Screen-Shot-2021-04-27-at-11-43-00-PM.png" alt="Screen-Shot-2021-04-27-at-11-43-00-PM" border="0"></a>
+<a href="https://ibb.co/vwGBzC8"><img src="https://i.ibb.co/5My9cXV/Screen-Shot-2021-04-28-at-3-45-43-PM.png" alt="Screen-Shot-2021-04-28-at-3-45-43-PM" border="0"></a>
 
 Below is screenshot of a future framework architecture- (Scope for improvment) 
 <a href="https://ibb.co/8mv28H7"><img src="https://i.ibb.co/FhZJ7FD/Screen-Shot2.png" alt="Screen-Shot2" border="0"></a>
