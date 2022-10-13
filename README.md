@@ -1,4 +1,4 @@
-# Hover Task - Verifying that a user can change a texture on the 3D model.
+# Verifying that a user can change a texture on the 3D model.
 
 # Video demo of the test running - 
 https://www.loom.com/share/95fcd998d6324065b79d096e8f2337a5
